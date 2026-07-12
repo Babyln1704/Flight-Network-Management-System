@@ -132,4 +132,4 @@ Linux / macOS
 
 ## 📜 License
 
-This project is developed for educational and academic purposes.
+This project is developed for educational and academic purposes
