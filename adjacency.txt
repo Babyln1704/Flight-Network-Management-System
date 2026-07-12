@@ -1,0 +1,17 @@
+=== FLIGHT NETWORK (Adjacency List) ===
+
+Delhi → Singapore(5 hrs), Mumbai(2 hrs)
+Mumbai → No direct flights
+Singapore → No direct flights
+Dubai → London(7 hrs)
+London → Paris(1 hrs)
+Paris → Frankfurt(2 hrs)
+Frankfurt → Toronto(8 hrs)
+Toronto → NewYork(2 hrs)
+NewYork → No direct flights
+Chennai → Singapore(4 hrs)
+Hyderabad → London(9 hrs)
+Sydney → Bengaluru(11 hrs)
+Bengaluru → Tokyo(5 hrs), Malasia(7 hrs), Hyderabad(3 hrs)
+Malasia → No direct flights
+Tokyo → No direct flights

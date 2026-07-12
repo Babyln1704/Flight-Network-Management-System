@@ -1,0 +1,13 @@
+Delhi Mumbai 2
+Delhi Singapore 5
+Dubai London 7
+London Paris 1
+Paris Frankfurt 2
+Frankfurt Toronto 8
+Toronto NewYork 2
+Chennai Singapore 4
+Hyderabad London 9
+Sydney Bengaluru 11
+Bengaluru Hyderabad 3
+Bengaluru Malasia 7
+Bengaluru Tokyo 5
